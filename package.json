@@ -1,0 +1,20 @@
+{
+  "name": "desafio3_perez_fortunato_omar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node .",
+    "dev":"nodemon ."
+  },
+  "author": "Pérez Fortunato Omar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
