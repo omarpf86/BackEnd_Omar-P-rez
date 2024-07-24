@@ -1,2 +1,0 @@
-MONGO_URL="mongodb+srv://omarpf86:1234@cluster0.an7me.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0"
-PERSISTENCE ='MONGO'
